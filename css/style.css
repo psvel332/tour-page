@@ -10398,6 +10398,8 @@ div.card.show div.flap2 {
 @media screen and (max-width: 500px) {
   .imgwhy1 img{
     width: 100px;
+    display: block;
+    margin: 0 auto;
   }
   .img1c{
     mix-blend-mode: multiply;
